@@ -18,4 +18,9 @@ class Node{
 	{
 		next = x;
 	}
+
+	public int getValue()
+	{
+		return value;
+	}
 }
